@@ -7,3 +7,5 @@ This project is related to ETL process, webscrawler(Extract), transform and load
 - According to the diagram, the etl process will run daily to extract restaurants data from tripadvisor and load into Postgresql database to keep update data in the database that data from source might have changed such as new restaurants, events, or new award. I designed a relational model to store data that you can see below.
 
 ![image](https://user-images.githubusercontent.com/102346723/213959850-5bd9648e-945d-4f72-8c56-04e41533073f.png)
+
+- To gain more insight, for next step, I will display the data via Power BI dashboard.
